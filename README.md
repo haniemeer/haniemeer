@@ -2,11 +2,11 @@
     <img src="./header.svg" alt="Haniyeh miresmaeili">
 </div>
 
-My name is **Amir Alizadeh** and I'm a web backend developer.
+My name is **haniyeh miresmaeili** and I'm a web frontend developer.
 
-I using PHP/Laravel to develop back-end and I'm familiar with JavaScript/Vue.js to develop front-end.
 
-I'm interested in low-level graphic programming using OpenGL & Direct3D.
+
+
 
 My favorite code editor is VSCode and I made some handy extensions for it.
 
